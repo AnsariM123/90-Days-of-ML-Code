@@ -3,31 +3,31 @@
 ## 🔍 Topics Covered
 
 ✅ Key Concepts
-Definition of ML
+1. Definition of ML
 
-Types of ML: Supervised, Unsupervised, Reinforcement
+2. Types of ML: Supervised, Unsupervised, Reinforcement
 
-Real-world examples: spam filter, recommendation engines, fraud detection
+3. Real-world examples: spam filter, recommendation engines, fraud detection
 
-Overview of ML pipeline
+4. Overview of ML pipeline
 
+
+
+
+## 🧠 Learnings
 🔧 Implementation Steps
-Install Python and Jupyter (Anaconda or pip install jupyter)
+1. Install Python and Jupyter (Anaconda or pip install jupyter)
 
-Set up your project directory: 90-Days-of-ML-Code/Day_01/
+2. Set up your project directory: 90-Days-of-ML-Code/Day_01/
 
-Create a new code.ipynb
+3. Create a new code.ipynb
 
-Write a hello-world ML introduction
+4. Write a hello-world ML introduction
 
-Sketch a basic pipeline: data → model → predict → evaluate
+5. Sketch a basic pipeline: data → model → predict → evaluate
+## 📁 Files
 
-📦 Tools
+## 📸 Tools
 Python
 
 Jupyter Notebook
-## 🧠 Learnings
-
-## 📁 Files
-
-## 📸 Preview
