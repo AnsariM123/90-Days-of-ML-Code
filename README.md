@@ -44,7 +44,7 @@
   
 <p>Day 1: What is Machine Learning? + Project Setupp</p>
 
-<p>Day 2: Python for ML – Basics Refresher  : <a href="https://allendowney.github.io/DSIRP/index.html">Visit W3Schools.com!</a></p>  
+<p>Day 2: Python for ML – Basics Refresher  : <a href="https://allendowney.github.io/DSIRP/index.html">Learn Python Basics</a></p>  
 
 <p>Day 3: NumPy – Math operations</p>
 
