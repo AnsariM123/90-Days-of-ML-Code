@@ -38,9 +38,9 @@
 
 
 <h3>..........</h3>
-🗓️ Breakdown
+<h3>🗓️ Breakdown</h3>
 <ul>
-<h3>📅 Week 1: Foundations of ML</h3>
+<h4>📅 Week 1: Foundations of ML</h4>
   
 <p>Day 1: What is Machine Learning? + Project Setupp</p>
 
