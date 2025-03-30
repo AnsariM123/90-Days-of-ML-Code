@@ -57,6 +57,6 @@
 <p>Day 7: Data Cleaning – Handling missing/outliers</p>
 </ul>
 
-<img src="https://github.com/AnsariM123/90-Days-of-ML-Code/blob/main/concept/Day1.png" alt="Flowers in Chania" width="800" height="1200">
+<img src="https://github.com/AnsariM123/90-Days-of-ML-Code/blob/main/concept/Day1.1.png" alt="Flowers in Chania" width="900" height="1400">
 
 
