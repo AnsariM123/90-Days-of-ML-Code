@@ -12,17 +12,17 @@
 
 ## 🧠 Learnings
 🔧 Implementation Steps
-Load a dataset using read_csv()
+1. Load a dataset using read_csv()
 
-Use .head(), .info(), .describe()
+2. Use .head(), .info(), .describe()
 
-Filter rows using conditions
+3. Filter rows using conditions
 
-Group and summarize data
+4. Group and summarize data
 
 ## 📁 Files
 
 ## 📸 Tool
-Pandas
+1. Pandas
 
-Sample dataset: Titanic or Iris
+2. Sample dataset: Titanic or Iris
