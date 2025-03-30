@@ -40,7 +40,8 @@
 <h3>..........</h3>
 🗓️ Breakdown
 <ul>
-📅 Week 1: Foundations of ML
+📅 <h3>Week 1: Foundations of ML</h3>
+  
 <p>Day 1: What is Machine Learning? + Project Setupp</p>
 
 <p>Day 2: Python for ML – Basics Refresher</p>
