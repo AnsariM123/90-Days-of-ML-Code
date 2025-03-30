@@ -1,4 +1,4 @@
-# Day 01 - 
+# Day 01 - What is Machine Learning? + Project Setup
 
 ## 🔍 Topics Covered
 
