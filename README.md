@@ -33,6 +33,24 @@
 </ul>
 
 
+🗓️ Breakdown
+📅 Week 1–2: Foundations of ML
+Day 1: What is Machine Learning? + Project Setup
+
+Day 2: Python for ML – Basics Refresher
+
+Day 3: NumPy – Math operations
+
+Day 4: Pandas – Data wrangling
+
+Day 5: Matplotlib/Seaborn – Visualization
+
+Day 6: Data Preprocessing – Scaling, Encoding
+
+Day 7: Data Cleaning – Handling missing/outliers
+
+
+
 <p style="font-size:20px;color:blue"> <q>The future belongs to those who learn more skills and combine them in creative ways.</q>  – Robert Greene</p>
 
 <p style="font-size:20px;color:blue"> So let’s get started. Day 1. First line of code. Your ML journey begins now</p>
