@@ -40,20 +40,15 @@
 <h3>..........</h3>
 🗓️ Breakdown
 <ul>
-📅 Week 1–2: Foundations of ML
-Day 1: What is Machine Learning? + Project Setup
+📅 Week 1: Foundations of ML
 
-Day 2: Python for ML – Basics Refresher
-
-Day 3: NumPy – Math operations
-
-Day 4: Pandas – Data wrangling
-
-Day 5: Matplotlib/Seaborn – Visualization
-
-Day 6: Data Preprocessing – Scaling, Encoding
-
-Day 7: Data Cleaning – Handling missing/outliers
+  Day 1: What is Machine Learning? + Project Setup
+  Day 2: Python for ML – Basics Refresher
+  Day 3: NumPy – Math operations
+  Day 4: Pandas – Data wrangling
+  Day 5: Matplotlib/Seaborn – Visualization
+  Day 6: Data Preprocessing – Scaling, Encoding
+  Day 7: Data Cleaning – Handling missing/outliers
 </ul>
 
 
